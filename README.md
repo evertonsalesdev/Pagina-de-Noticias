@@ -8,4 +8,4 @@
 ![Captura de tela de 2023-05-21 13-14-22](https://github.com/evertonsalesdev/Pagina-de-Noticias/assets/127686513/fcdc7c98-8804-47e1-be66-805a6a1f5609)
   
   
-  <b><a href="https://evertonsalesdev.github.io/Pagina-de-Noticias/ target="_blank" >Link para acessar o site</a></b>
+  <b><a href="https://evertonsalesdev.github.io/Pagina-de-Noticias/" target="_blank" >Link para acessar o site</a></b>
